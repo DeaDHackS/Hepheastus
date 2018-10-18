@@ -1,6 +1,9 @@
 # What Is Hepheastus?
 Hepheastus is a Multi-Web Application Vulnerability Scanner written in Perl, most of his scans are accurate!
 
+# Incoming Features
+We are now scripting a CMS(Content Manager System) detecter! We are also adding a Dork searcher :)
+
 # Important
 we are currently working on it, if you have any bugs, issues or suggestions please report in the issues section in Github!
 
